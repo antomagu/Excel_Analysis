@@ -21,7 +21,7 @@ Uncleaned Data: <br/>
 <img src="https://i.imgur.com/5KFhesj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Clean Data:  <br/>  
-<img src="https://i.imgur.com/BJ1rPCZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Clean Data:  <br/> 
+<img src="https://i.imgur.com/jULIYlk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
