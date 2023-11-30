@@ -21,7 +21,18 @@ Uncleaned Data: <br/>
 <img src="https://i.imgur.com/5KFhesj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+
+- <b>Eliminate duplicates and cells that do not correspond to the data</b>
+
+- <b>Delete or correct missing values</b>
+
+- <b>Use Trim to remove spaces and use Proper to remove upper and lower case</b>
+
+- <b>Put the dates together in a column and put it in the correct format</b> 
+
+- <b>Adjust cell size and make a table</b>
+
 Clean Data:  <br/> 
-<img src="https://i.imgur.com/jULIYlk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/KIH506o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
