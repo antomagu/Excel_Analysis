@@ -7,8 +7,6 @@ The project consists of an analysis and an interactive dashboard in Excel
 ### Objectives:
 The objective is to create an interactive dashboard with information on units sold by status and totals, total sales, gross profits and total profit
 
-The most important indicators are: Unit Sold, Profits, States, Products, Years
-
 <h2>The tools used were</h2>
 
 - <b>Microsoft Excel</b>
@@ -32,7 +30,17 @@ Uncleaned Data: <br/>
 
 - <b>Adjust cell size and make a table</b>
 
+<p align="center">
 Clean Data:  <br/> 
 <img src="https://i.imgur.com/KIH506o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+
+<h2>Data analysis:</h2>   
+The analysis was carried out with the use of pivot table using information from these variables Unit Sold, Profits, States, Products, Years
+
+<p align="center">
+<img src="https://i.imgur.com/wIwgujt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
