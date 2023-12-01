@@ -63,3 +63,12 @@ Finally we obtained a dashboard that shows the total profits, units sold, gross 
 <img src="https://i.imgur.com/yHvb9ou.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+
+<h2>Conclusions</h2> 
+
+- <b>In 2014, a profit of more than 9,136,773 was obtained compared to 2013</b> 
+
+- <b>The states with the highest sales were Illinois, Virginia and Massachusetts. The second states with the most sales were Ohio, Pennsylvania and New Jersey, so the marketing team should concentrate its efforts in these areas.</b>
+
+- <b>The best-selling product was Paseo with 176,239 sales</b>
+
