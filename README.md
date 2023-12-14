@@ -41,8 +41,8 @@ Clean Data:  <br/>
 The analysis was carried out with the use of pivot table using information from these variables Unit Sold, Profits, States, Products, Years
 
 A graph was created with the sales, gross fit and profit per year and a timeline to know how it changed over the months.
-<p align="center">
-<img src="https://i.imgur.com/wIwgujt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p align="center"> 
+<img src="https://imgur.com/20sYO1i.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Which product was the most sold by state and which was the least sold?
