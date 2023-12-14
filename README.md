@@ -15,8 +15,8 @@ The objective is to create an interactive dashboard with information on units so
 Data was taken from Kaggel profiles with data available for use, in csv files,
 Excel and Power Query were used for data cleaning
 <p align="center">
-Uncleaned Data: <br/>  
-<img src="https://i.imgur.com/5KFhesj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Uncleaned Data: <br/> 
+<img src="https://imgur.com/IentKQU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
