@@ -47,7 +47,7 @@ A graph was created with the sales, gross fit and profit per year and a timeline
 <br />
 Which product was the most sold by state and which was the least sold?
 <p align="center">
-<img src="https://i.imgur.com/h9y8lGb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/tBvJRLf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Finally, different filters were created to be able to see in more detail the number of sales by state, profits, etc.
