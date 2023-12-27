@@ -1,15 +1,17 @@
 <h1>Units Sold and Sales </h1>
 
-<h2>Description</h2>
-The project consists of an analysis and an interactive dashboard in Excel
-<br />
 
-### Objectives:
-The objective is to create an interactive dashboard with information on units sold by status and totals, total sales, gross profits and total profit
 
-<h2>The tools used were</h2>
+|  |  | |
+| ----------- | ----------- | ----------|
+| <b>Industry focus  </b> | - <b>Financial </b> |  |
+|<b> Description  </b>  | - <b>The project consists of an analysis and an interactive dashboard in Excel</b> | |
+|<b> Objectives </b> | - <b>The objective is to create an interactive dashboard with information on units sold by status and totals, total sales, gross profits and total profit </b> |  |
+|<b> Tools used  </b> | - <b>Microsoft Excel</b>|  |
+|<b> Deliverables </b>  | - <b>The project consists of an analysis and an interactive dashboard in Excel </b> | |
+|<b> Dataset list </b> |- <b> The data was extracted from Microsoft sample data</b>|  |
 
-- <b>Microsoft Excel</b>
+
 
 <h2>Data transformation and Data preparation:</h2>   
 Data was taken from Kaggel profiles with data available for use, in csv files,
