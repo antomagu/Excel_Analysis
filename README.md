@@ -52,7 +52,7 @@ Which product was the most sold by state and which was the least sold?
 <br />
 Finally, different filters were created to be able to see in more detail the number of sales by state, profits, etc.
 <p align="center">
-<img src="https://imgur.com/IKP7oS9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/msoynfm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
