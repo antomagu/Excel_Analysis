@@ -6,7 +6,7 @@
 | ----------- | ----------- | ----------|
 | <b>Industry focus  </b> | - <b>Financial </b> |  |
 |<b> Description  </b>  | - <b>The project consists of an analysis and an interactive dashboard in Excel</b> | |
-|<b> Objectives </b> | - <b>The objective is to create an interactive dashboard with information on units sold by status and totals, total sales, gross profits and total profit </b> |  |
+|<b> Objective </b> | - <b>The objective is to create an interactive dashboard with information on units sold by status and totals, total sales, gross profits and total profit </b> |  |
 |<b> Tools used  </b> | - <b>Microsoft Excel</b>|  |
 |<b> Deliverables </b>  | - <b>The project consists of an analysis and an interactive dashboard in Excel </b> | |
 |<b> Dataset list </b> |- <b> The data was extracted from Microsoft sample data</b>|  |
