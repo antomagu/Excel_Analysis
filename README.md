@@ -60,7 +60,7 @@ Finally, different filters were created to be able to see in more detail the num
 Finally we obtained a dashboard that shows the total profits, units sold, gross sales, total profit and their performance at different times in 2013 and 2014.
 
 <p align="center"> 
-<img src="https://imgur.com/P3scfxQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/pBG30Wr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
