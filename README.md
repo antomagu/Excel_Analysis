@@ -60,10 +60,10 @@ Finally, different filters were created to be able to see in more detail the num
 <h2>Data Vizualization:</h2>   
 Finally we obtained a dashboard that shows the total profits, units sold, gross sales, total profit and their performance at different times in 2013 and 2014.
 
-<p align="center"> 
-<img src="https://imgur.com/pBG30Wr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
+<p align="center">
+
+![Dashboard](https://github.com/antomagu/Excel_Analysis/assets/152213287/0f19d981-a5f6-4a31-910f-734325ff1f64.png)
+
 
 <h2>Conclusions</h2> 
 
