@@ -46,20 +46,15 @@ Clean Data:  <br/>
 The analysis was carried out with the use of pivot table using information from these variables Unit Sold, Profits, States, Products, Years
 
 A graph was created with the sales, gross fit and profit per year and a timeline to know how it changed over the months.
-<p align="center"> 
-<img src="https://imgur.com/20sYO1i.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
+
+![Anual Profit and Time Line](https://github.com/antomagu/Excel_Analysis/assets/152213287/316c9eaf-91f1-4de2-a88e-5010d4cc57bd.png)
+
 Which product was the most sold by state and which was the least sold?
-<p align="center">
-<img src="https://imgur.com/tBvJRLf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
+
+![Unit sold](https://github.com/antomagu/Excel_Analysis/assets/152213287/8a537092-894b-4a16-baf0-279ceaf32668.png)  
+
 Finally, different filters were created to be able to see in more detail the number of sales by state, profits, etc.
-<p align="center">
-<img src="https://imgur.com/msoynfm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
+
 
 <h2>Data Vizualization:</h2>   
 Finally we obtained a dashboard that shows the total profits, units sold, gross sales, total profit and their performance at different times in 2013 and 2014.
