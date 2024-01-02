@@ -16,11 +16,15 @@
 <h2>Data transformation and Data preparation:</h2>   
 Data was taken from Kaggel profiles with data available for use, in csv files,
 Excel and Power Query were used for data cleaning
-<p align="center">
+
+
 Uncleaned Data:  <br/> 
-<img src="https://imgur.com/2wIsqgt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
+  
+<p align="center">  
+  
+![original documents](https://github.com/antomagu/Excel_Analysis/assets/152213287/425b5143-e57b-4425-ba82-5b88efccfffa.png) 
+
+
 
 - <b>Eliminate duplicates and cells that do not correspond to the data</b>
 
