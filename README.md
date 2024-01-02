@@ -38,9 +38,8 @@ Uncleaned Data:  <br/>
 
 <p align="center">
 Clean Data:  <br/> 
-<img src="https://i.imgur.com/KIH506o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
+  
+![Datos limpios](https://github.com/antomagu/Excel_Analysis/assets/152213287/ed03d5e5-c676-44d9-87b7-893b70478676.png)
 
 
 <h2>Data analysis:</h2>   
