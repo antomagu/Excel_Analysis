@@ -55,6 +55,7 @@ Which product was the most sold by state and which was the least sold?
 
 Finally, different filters were created to be able to see in more detail the number of sales by state, profits, etc.
 
+![filtros](https://github.com/antomagu/Excel_Analysis/assets/152213287/ce28bfaf-3f70-4cf2-bd22-521ab7dee947.png)
 
 <h2>Data Vizualization:</h2>   
 Finally we obtained a dashboard that shows the total profits, units sold, gross sales, total profit and their performance at different times in 2013 and 2014.
