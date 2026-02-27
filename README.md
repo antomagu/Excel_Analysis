@@ -1,16 +1,107 @@
-<h1>Units Sold and Sales </h1>
+## 💰 Financial Sales Dashboard in Excel 
+
+ 
 
 
+# 🎯 Project Overview 
 
-|  |  | |
-| ----------- | ----------- | ----------|
-| <b>Industry focus  </b> | - <b>Financial </b> |  |
-|<b> Description  </b>  | - <b>The project consists of an analysis and an interactive dashboard in Excel</b> | |
-|<b> Objective </b> | - <b>The objective is to create an interactive dashboard with information on units sold by status and totals, total sales, gross profits and total profit </b> |  |
-|<b> Tools used  </b> | - <b>Microsoft Excel</b>|  |
-|<b> Deliverables </b>  | - <b>The project consists of an analysis and an interactive dashboard in Excel </b> | |
-|<b> Dataset list </b> |- <b> The data was extracted from Microsoft sample data</b>|  |
+Interactive Excel dashboard project analyzing sales performance, profitability, and product trends across multiple US states. Demonstrates advanced Excel capabilities including Pivot Tables, Power Query, and dynamic visualizations. 
 
+# Industry Focus 
+
+Financial Analysis / Sales Operations 
+
+# 📊 Dataset 
+
+Source: Microsoft Sample Data 
+
+Records: 700+ sales transactions 
+
+Period: 2013-2014 
+
+Total Revenue: $25M+ tracked 
+
+# 🛠️ Technologies Used 
+
+Microsoft Excel: Advanced formulas and analysis 
+
+Power Query: Data cleaning and ETL 
+
+Pivot Tables: Multi-dimensional analysis 
+
+# 🔍 Key Findings 
+
+YoY Profit Growth: $9.1M increase (2014 vs 2013) 
+
+Top Markets: Illinois, Virginia, Massachusetts 
+
+Best Product: Paseo (176,239 units sold) 
+
+ 
+
+# 💼 Business Impact & Applications 
+
+Operational Insights 
+
+Sales Performance Tracking: Real-time visibility into revenue and profit 
+
+Product Portfolio: Identified top performers for inventory decisions 
+
+Strategic Recommendations 
+
+Focus marketing in top 3 states to maximize ROI 
+
+Increase inventory for Paseo and top 5 products 
+
+Capitalize on Q4 momentum with targeted campaigns 
+
+# 🛠️ Technical Skills Demonstrated 
+
+Data Preparation 
+
+Data cleaning (duplicates, missing values) 
+
+Text functions (TRIM, PROPER) 
+
+Date formatting and standardization 
+
+Excel Advanced Functions 
+
+VLOOKUP/XLOOKUP for data matching 
+
+SUMIFS/COUNTIFS for aggregations 
+
+Conditional logic (IF, AND, OR) 
+
+Pivot Tables & Visualization 
+
+Multi-dimensional analysis 
+
+Interactive dashboards with slicers 
+
+Dynamic charts and KPI cards 
+
+# 📈 Key Performance Indicators 
+
+Total Revenue: $25,000,000+ 
+
+Units Sold: 500,000+ 
+
+Profit Growth: $9,136,773 
+
+Top Product: Paseo (176,239 units) 
+
+# 🎯 Excel Skills Checklist 
+
+-✅ Data Cleaning & Preparation 
+
+-✅ Advanced Functions (VLOOKUP, SUMIFS) 
+
+-✅ Pivot Tables & Analysis 
+
+-✅ Interactive Dashboards 
+
+-✅ Power Query & ETL 
 
 
 <h2>Data transformation and Data preparation:</h2>   
@@ -57,7 +148,7 @@ Finally, different filters were created to be able to see in more detail the num
 
 ![filtros](https://github.com/antomagu/Excel_Analysis/assets/152213287/ce28bfaf-3f70-4cf2-bd22-521ab7dee947.png)
 
-<h2>Data Vizualization:</h2>   
+<h2>Data Visualization:</h2>   
 Finally we obtained a dashboard that shows the total profits, units sold, gross sales, total profit and their performance at different times in 2013 and 2014.
 
 <p align="center">
@@ -65,11 +156,12 @@ Finally we obtained a dashboard that shows the total profits, units sold, gross 
 ![Dashboard](https://github.com/antomagu/Excel_Analysis/assets/152213287/0f19d981-a5f6-4a31-910f-734325ff1f64.png)
 
 
-<h2>Conclusions</h2> 
+🔗 Project Links 
 
-- <b>In 2014, a profit of more than 9,136,773 was obtained compared to 2013</b> 
+GitHub: github.com/antomagu/Excel_Analysis 
 
-- <b>The states with the highest sales were Illinois, Virginia and Massachusetts. The second states with the most sales were Ohio, Pennsylvania and New Jersey, so the marketing team should concentrate its efforts in these areas.</b>
+─────────────────────────────────── 
 
-- <b>The best-selling product was Paseo with 176,239 sales</b>
+Author: Antonio Guevara 
 
+Project Type: Business Analytics | Excel Dashboard 
